@@ -10,6 +10,9 @@ All assignments unless otherwise noted should be turned in on Moodle.
 | Assignment | Due Date|
 | -- | -- |
 |HW1 | February 4 @ 11:59 PM |
+|HW2 | February 11 @ 11:59 PM |
+|HW3 | February 18 @ 11:59 PM |
+  
 </div>
 
 Direct questions via email. 
