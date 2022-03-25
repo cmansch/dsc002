@@ -18,6 +18,4 @@ All assignments unless otherwise noted should be turned in on Moodle.
   
 </div>
 
-HW4 is the project proposal. There is no coding involved in this assignment.
-
 Direct questions via email. 
