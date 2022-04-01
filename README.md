@@ -14,7 +14,7 @@ All assignments unless otherwise noted should be turned in on Moodle.
 |HW3 | February 18 @ 11:59 PM |
 |HW4 | March 4 @ 11:59 PM |
 |HW5 | April 1 @ 11:59 PM |
-|HW6 | April 8 @ 11:59 PM |
+|HW6 | April 15 @ 11:59 PM |
   
 </div>
 
